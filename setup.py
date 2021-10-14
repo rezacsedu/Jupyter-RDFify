@@ -14,7 +14,7 @@ setuptools.setup(
     url="https://github.com/SemWebNotebooks/Jupyter-RDFify",
     packages=setuptools.find_packages(),
     install_requires=[
-        "rdflib",
+        "rdflib>=6.0.1",
         "ipython>=7.0.0",
         "graphviz",
         "sparqlwrapper>=1.8.5",
