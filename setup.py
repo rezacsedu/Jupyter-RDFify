@@ -17,9 +17,7 @@ setuptools.setup(
         "rdflib",
         "ipython>=7.0.0",
         "graphviz",
-        "sparqlwrapper",
-        "owlrl",
-        "PyShEx"
+        "sparqlwrapper"
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
