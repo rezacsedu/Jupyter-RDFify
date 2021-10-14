@@ -18,7 +18,6 @@ setuptools.setup(
         "ipython>=7.0.0",
         "graphviz",
         "sparqlwrapper>=1.8.5",
-        "sparqlslurper>=0.4",
         "owlrl"
     ],
     classifiers=[
